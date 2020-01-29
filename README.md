@@ -7,13 +7,13 @@ The installation is as simple as downloading the script and running it. It will 
 
 If you are a new user, run the following command from the directory where you downloaded the script:
 
-<p background="#f1f1f1"> # ./packettracer-installer.sh </p>
+<p background-color="#f1f1f1"> # ./packettracer-installer.sh </p>
 
 
 I have tested this on a number of distributions that did and did not work from the initial install.
 
 Those of which include:
-<ul background="#f1f1f1">
+<ul background-color="#f1f1f1">
 <li>Debian 10</li>
 <li>POP!OS 19.10</li>
 <li>ElementaryOS 5.0</li>
