@@ -16,11 +16,11 @@ getDeps() {
 
 installDeps() {
 	if [ $(ls ./  | grep "$1") ]; then
-		echo "installing $1..."
+		echo "installing $1 ..."
 		ls ./ | grep $1 | xargs -I "PACKAGE" apt-get -qy --allow-downgrades install ./"PACKAGE" >> /dev/null
 	else
 		if [ ! $(ls /bin | grep $1) ]; then
-			echo "installing $1..."
+			echo "installing $1 ..."
 			apt-get -qy install $1 >> /dev/null
 		fi
 	fi
