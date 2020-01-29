@@ -1,4 +1,4 @@
-<h3 align="center">CISCO PACKET TRACER INSTALL SCRIPT</h3>
+<h3 align="center">CISCO PACKET TRACER INSTALL SCRIPT v7.3.0</h3>
 
 This script will install Cisco's Packet Tracer software on Debian based GNU/Linux distributions.
 It aims to fix the issues many people have when installing the .deb file you get from Cisco.
@@ -7,13 +7,13 @@ The installation is as simple as downloading the script and running it. It will 
 
 If you are a new user, run the following command from the directory where you downloaded the script:
 
-<p background-color="#f1f1f1"> # ./packettracer-installer.sh </p>
+<p> # ./packettracer-installer.sh </p>
 
 
 I have tested this on a number of distributions that did and did not work from the initial install.
 
 Those of which include:
-<ul background-color="#f1f1f1">
+<ul>
 <li>Debian 10</li>
 <li>POP!OS 19.10</li>
 <li>ElementaryOS 5.0</li>
