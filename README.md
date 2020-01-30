@@ -25,6 +25,7 @@ Those of which include:
 <li>Ubuntu 18.04, 18.10, 19.04, and 19.10</li>
 <li>Lubuntu 19.04</li>
 <li>Xubuntu 18.04 and 19.10</li>
+<li>Kali Linux</li>
 </ul>
 
 If anyone out there happens to use this on another distro, let me know and I will update the list.
