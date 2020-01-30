@@ -62,7 +62,7 @@ COMMENT
 deps=(
 	wget
 	libnss3
-	libxslt1
+	libxslt1.1
 	libqt5webkit5
 	libdouble-conversion1
 	qt-at-spi
@@ -74,7 +74,7 @@ deps=(
 mirrors=(
 	http://mirrors.kernel.org/ubuntu/pool/main/d/double-conversion/libdouble-conversion1_2.0.1-4ubuntu1_amd64.deb
 	http://mirrors.kernel.org/ubuntu/pool/main/q/qt-at-spi/qt-at-spi_0.4.0-3_amd64.deb
-	http://security.ubuntu.com/ubuntu/pool/main/libj/libjpeg-turbo/libjpeg-turbo8_1.4.2-0ubuntu3.3_amd64.deb
+	http://mirrors.kernel.org/ubuntu/pool/main/libj/libjpeg-turbo/libjpeg-turbo8_2.0.3-0ubuntu1_amd64.deb
 	http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu60_60.2-3ubuntu3_amd64.deb
 	http://security.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.0.0_1.0.2g-1ubuntu4.15_amd64.deb
 )
