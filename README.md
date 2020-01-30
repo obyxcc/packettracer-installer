@@ -9,8 +9,7 @@ The installation is as simple as downloading the script and running it. It will 
 
 If you are a new user, run the following command from the directory where you downloaded the script:
 
-<h4> # ./packet-tracer-7.3.0-install.sh</h4>
-
+<h3 align="center"><img src="https://imgur.com/a/0RHiiTu" alt="command" height="200px"</h3>
 
 I have tested this on a number of distributions that did and did not work from the initial install.
 
