@@ -21,6 +21,7 @@ Those of which include:
 <ul>
 <li>Debian 10</li>
 <li>POP!OS 19.10</li>
+<li>POP!OS 20.10</li>
 <li>ElementaryOS 5.0</li>
 <li>Ubuntu 18.04, 18.10, 19.04, and 19.10</li>
 <li>Lubuntu 19.04</li>
